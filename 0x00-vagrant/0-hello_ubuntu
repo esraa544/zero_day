@@ -1,2 +1,1 @@
-echo "Hello ubuntu"
---all
+echo "--all"
